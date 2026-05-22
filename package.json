@@ -1,0 +1,33 @@
+{
+  "name": "stemm-lab",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "dependencies": {
+    "expo": "~56.0.3",
+    "expo-status-bar": "~56.0.4",
+    "react": "19.2.3",
+    "react-native": "0.85.3",
+    "expo-sqlite": "~56.0.4",
+    "expo-location": "~56.0.12",
+    "expo-sensors": "~56.0.5",
+    "expo-battery": "~56.0.4",
+    "expo-notifications": "~56.0.12",
+    "expo-task-manager": "~56.0.13",
+    "expo-background-task": "~56.0.13",
+    "expo-constants": "~56.0.14",
+    "react-dom": "19.2.3",
+    "react-native-web": "~0.21.0",
+    "@expo/metro-runtime": "~56.0.11"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.2",
+    "typescript": "~6.0.3"
+  },
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "private": true
+}
