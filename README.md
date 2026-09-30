@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/assets/banner.webp" alt="STEMM Lab banner" width="100%"></p>
+
 # STEMM Lab - CSE3MAD Assessment 4
 
 STEMM Lab is an Expo/React Native mobile application for the CSE3MAD Assessment 4 specification. It turns real-world STEMM classroom activities into guided, evidence-based experiments for upper-primary and lower-high-school students.
